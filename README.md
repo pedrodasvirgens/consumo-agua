@@ -17,7 +17,6 @@ O objetivo do projeto é utilizar estruturas condicionais em Python para impleme
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23ffffff?style=for-the-badge&logo=markdown&logoColor=black)
 ![Água](https://img.shields.io/badge/Água-Consumo%20Consciente-1E90FF)
-![Energia](https://img.shields.io/badge/Energia-Consumo%20Consciente-FFD700)
 
 ##  Como executar
 
